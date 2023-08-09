@@ -56,5 +56,3 @@ The architecture of the Invoice to PDF Conversion Script project consists of the
 The Invoice to PDF Conversion Script project showcases how automation can streamline the conversion of raw financial data into structured and presentable PDF invoices. This system design forms the basis for further refining and expanding the capabilities of the project.
 
 ---
-
-**Note:** This document provides a high-level overview of the Invoice to PDF Conversion Script project's system design. Customize the content based on your project's specifics.

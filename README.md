@@ -40,5 +40,3 @@ This repository contains a Python script that automates the conversion of invoic
 The Invoice to PDF Conversion Script project showcases the power of automation in transforming raw invoice data into organized and visually appealing PDF invoices. This tool is designed to improve efficiency in invoice management.
 
 ---
-
-**Note:** This document provides an overview of the Invoice to PDF Conversion Script. Customize the content based on your project's specifics.
